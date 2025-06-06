@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Jun 06 2025)
+
+#### 🐛 Bug Fix
+
+- added name [#2](https://github.com/kimikukiu/container-eggpak/pull/2) ([@kimikukiu](https://github.com/kimikukiu))
+
+#### Authors: 1
+
+- TryHard Psyop Me Harder ([@kimikukiu](https://github.com/kimikukiu))
+
+---
+
 # v0.0.1 (Fri Jun 06 2025)
 
 :tada: This release contains work from a new contributor! :tada:
